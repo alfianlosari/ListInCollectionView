@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Cloud",
+        "job": "EX-SOLDIER",
+        "imageName": "cloud",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Aerith",
+        "job": "Flower Seller",
+        "imageName": "aerith",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Tifa",
+        "job": "Bar Hostess",
+        "imageName": "tifa",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Barret",
+        "job": "Leader of AVALANCHE",
+        "imageName": "barret",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Jessie",
+        "job": "Bomb Specialist",
+        "imageName": "jessie",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Red XIII",
+        "job": "Research Specimen",
+        "imageName": "redxiii",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Biggs",
+        "job": "Fighter",
+        "imageName": "biggs",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Wedge",
+        "job": "Fighter",
+        "imageName": "wedge",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Pres. Shinra",
+        "imageName": "shinra",
+        "category": "shinra"
+    },
+    {
+        "name": "Rufus",
+        "imageName": "rufus",
+        "category": "shinra"
+    },
+    {
+        "name": "Prof. Hojo",
+        "imageName": "hojo",
+        "category": "shinra"
+    },
+    {
+        "name": "Scarlet",
+        "imageName": "scarlet",
+        "category": "shinra"
+    },
+    {
+        "name": "Reeve",
+        "imageName": "reeve",
+        "category": "shinra"
+    },
+    {
+        "name": "Reno",
+        "imageName": "reno",
+        "category": "shinra"
+    },
+    {
+        "name": "Rude",
+        "imageName": "rude",
+        "category": "shinra"
+    },
+    {
+        "name": "Tseng",
+        "imageName": "tseng",
+        "category": "shinra"
+    },
+    {
+        "name": "Heidegger",
+        "imageName": "heidegger",
+        "category": "shinra"
+    },
+    {
+        "name": "Sephiroth",
+        "imageName": "sephiroth",
+        "category": "jenova"
+    },
+    {
+        "name": "Dreamweaver",
+        "imageName": "dreamweaver",
+        "category": "jenova"
+    }
+]
